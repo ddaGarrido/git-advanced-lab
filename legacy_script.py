@@ -1,1 +1,1 @@
-# TODO: Remove legacy script
+print('Legacy script v1.0')
