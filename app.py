@@ -1,1 +1,1 @@
-print('Sistema Base v1.0')
+print('Conflict')
